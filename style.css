@@ -461,7 +461,7 @@ footer {
 .footer-section .social a {
   color: #fff;
   font-size: 1.5rem;
-  transition: color 0.3s, transform 0.3s;
+  transition: color 0.5s, transform 0.5s;
 }
 
 .footer-section .social a:hover {
